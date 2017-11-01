@@ -7,7 +7,7 @@ using System;
 
 public class DownKeyChecker : MonoBehaviour {
 
-		public Text displayKeyEventValue;
+	public Text displayKeyEventValue;
 
 	// Use this for initialization
 	void Start () {
